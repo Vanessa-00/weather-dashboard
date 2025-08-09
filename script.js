@@ -1,4 +1,4 @@
-const apiKey = "YOUR_OPENWEATHERMAP_API_KEY"; // Replace with your API key
+const apiKey = "fd1e2d14458089fe517db8592affbaa2";
 
 document.getElementById("search-btn").addEventListener("click", () => {
   const city = document.getElementById("city-input").value;
